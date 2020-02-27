@@ -1,0 +1,1 @@
+node "%~dp0\jmeter-proxy\src\main.js"
